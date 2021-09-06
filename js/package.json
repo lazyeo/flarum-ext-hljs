@@ -1,5 +1,5 @@
 {
-  "name": "@therealsujitk/flarum-ext-hljs",
+  "name": "@lazyeo/flarum-ext-hljs",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
