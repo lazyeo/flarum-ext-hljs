@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Latest Stable Version](https://img.shields.io/packagist/v/therealsujitk/flarum-ext-hljs.svg) ![Total Downloads](https://img.shields.io/packagist/dt/therealsujitk/flarum-ext-hljs.svg)
 
+原作者适配了1.0但是没提交release,所以fork一份自己提交了个方便composer安装
+
 A [Flarum](http://flarum.org) extension that integrates your forum with [highlight.js](https://highlightjs.org).
 
 ### Preview
