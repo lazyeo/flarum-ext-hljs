@@ -15,13 +15,13 @@ A [Flarum](http://flarum.org) extension that integrates your forum with [highlig
 ### Installation
 
 ```sh
-composer require therealsujitk/flarum-ext-hljs
+composer require lazyeo/flarum-ext-hljs
 ```
 
 ### Updating
 
 ```sh
-composer update therealsujitk/flarum-ext-hljs
+composer update lazyeo/flarum-ext-hljs
 ```
 
 ### Links
